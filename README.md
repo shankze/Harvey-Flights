@@ -2,6 +2,8 @@
 
 ##THIS IS A WORK IN PROGRESS
 
+Note: If you are having trouble opening the notebook, please open the markdown file in the markdown folder
+
 Analysis of how Houston airports (IAH and HOU) and Houston bound airlines handled hurricane Harvey. I do an in-depth analysis of the schedules, how early airlines cancelled flights, where and why did they divert and how did quickly did they ramp-up operations after Harvey.
 
 Data Sources:  
